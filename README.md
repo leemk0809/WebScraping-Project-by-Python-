@@ -7,3 +7,5 @@
 ２．アイディニュースを3件持ってきます。　  
 ３．ネイバーで、今日の日本語会話を持ってきます。  
 ４．今日の天気情報を持ってきます。　　
+
+![image](https://user-images.githubusercontent.com/21729665/113392938-dfabf000-93d0-11eb-8fa9-d7c2ff22956d.png)
